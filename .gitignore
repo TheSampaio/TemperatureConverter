@@ -1,8 +1,8 @@
 # Directories
 
 .vs/
-Debug/*
-TemperatureConverter/Debug/*
+Debug/
+TemperatureConverter/Debug/
 
 # Files
 
