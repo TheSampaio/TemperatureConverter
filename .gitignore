@@ -1,0 +1,9 @@
+# Directories
+
+Debug/*
+TemperatureConverter/Debug/*
+
+# Files
+
+*.resx
+*.user
